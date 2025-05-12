@@ -1,0 +1,20 @@
+langchain
+python-dotenv #import key value pairs in .env file
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+langchain_community
+transformers
+langchain-groq
+faiss-cpu
+langchain_huggingface
+pypdf
+sentence-transformers
+tf-keras
+validators==0.28.1 #inbuilt library to validate the URL
+youtube_transcript_api #read transcript of youtube video
+unstructured
+pytube
